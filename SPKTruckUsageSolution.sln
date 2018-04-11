@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPKTruckUsage.Models", "SPKTruckUsage.Models\SPKTruckUsage.Models.csproj", "{C81583D8-2D14-4526-B244-7B2C28141179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPKTruckUsage.Controllers", "SPKTruckUsage.Controllers\SPKTruckUsage.Controllers.csproj", "{D0C7543B-928A-4036-BE1A-D366276EFCB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPKTruckUsage.TestApp", "SPKTruckUsage.TestApp\SPKTruckUsage.TestApp.csproj", "{3B63902E-FB0A-4E39-8BAA-3585EF417A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPKTruckUsage.Service", "SPKTruckUsage.Service\SPKTruckUsage.Service.csproj", "{17E0D911-05BB-459B-8EB4-BCB2424CCDA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C81583D8-2D14-4526-B244-7B2C28141179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81583D8-2D14-4526-B244-7B2C28141179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81583D8-2D14-4526-B244-7B2C28141179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81583D8-2D14-4526-B244-7B2C28141179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C7543B-928A-4036-BE1A-D366276EFCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C7543B-928A-4036-BE1A-D366276EFCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C7543B-928A-4036-BE1A-D366276EFCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C7543B-928A-4036-BE1A-D366276EFCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B63902E-FB0A-4E39-8BAA-3585EF417A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B63902E-FB0A-4E39-8BAA-3585EF417A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B63902E-FB0A-4E39-8BAA-3585EF417A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B63902E-FB0A-4E39-8BAA-3585EF417A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E0D911-05BB-459B-8EB4-BCB2424CCDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E0D911-05BB-459B-8EB4-BCB2424CCDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E0D911-05BB-459B-8EB4-BCB2424CCDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E0D911-05BB-459B-8EB4-BCB2424CCDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
